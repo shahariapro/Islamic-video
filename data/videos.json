@@ -1,4 +1,110 @@
-[
+{
+  "carousel_videos": [
+    {
+      "id": "carousel_1",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "category": "Islamic Lectures",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "carousel_2",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "category": "Quran Recitation",
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": "carousel_3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "category": "Islamic Stories",
+      "featured": true,
+      "order": 3
+    }
+  ],
+  "popular_videos": [
+    {
+      "id": "popular_1",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "category": "Islamic Lectures",
+      "viewCount": 50000
+    },
+    {
+      "id": "popular_2",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "category": "Quran Recitation",
+      "viewCount": 45000
+    },
+    {
+      "id": "popular_3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "category": "Nasheeds",
+      "viewCount": 40000
+    }
+  ],
+  "category_videos": {
+    "Islamic Lectures": [
+      {
+        "id": "lecture_1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+        "viewCount": 25000
+      },
+      {
+        "id": "lecture_2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+        "viewCount": 20000
+      }
+    ],
+    "Quran Recitation": [
+      {
+        "id": "quran_1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+        "viewCount": 30000
+      },
+      {
+        "id": "quran_2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+        "viewCount": 28000
+      }
+    ],
+    "Islamic Stories": [
+      {
+        "id": "story_1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+        "viewCount": 15000
+      },
+      {
+        "id": "story_2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+        "viewCount": 12000
+      }
+    ],
+    "Nasheeds": [
+      {
+        "id": "nasheed_1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+        "viewCount": 35000
+      },
+      {
+        "id": "nasheed_2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+        "viewCount": 32000
+      }
+    ],
+    "Waz": [
+      {
+        "id": "waz_1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+        "viewCount": 18000
+      },
+      {
+        "id": "waz_2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+        "viewCount": 16000
+      }
+    ]
+  }
+} [
   {
     "id": "1",
     "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
@@ -7,13 +113,13 @@
   },
   {
     "id": "2",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Rnnr2VteISU&list=RDSAqJBJkByzU&index=3",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
     "category": "Quran Recitation",
     "uploadDate": "2024-03-19T15:30:00Z"
   },
   {
     "id": "3",
-    "youtubeUrl": "https://www.youtube.com/watch?v=e52Ysc_bl_s&list=RDSAqJBJkByzU&index=2",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
     "category": "Islamic Stories",
     "uploadDate": "2024-03-18T10:00:00Z"
   },
