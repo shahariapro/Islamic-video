@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Understanding Surah Al-Fatiha",
+    "subtitle": "A detailed explanation of the opening chapter",
+    "youtubeUrl": "https://www.youtube.com/watch?v=PM9zr7wgJX4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kMfxPio5YLs/maxresdefault.jpg",
+    "category": "Islamic Lectures",
+    "viewCount": 1000,
+    "uploadDate": "2024-03-20T12:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Beautiful Quran Recitation - Surah Ar-Rahman",
+    "subtitle": "Heart-touching recitation with translation",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kMfxPio5YLs",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kMfxPio5YLs/maxresdefault.jpg",
+    "category": "Quran Recitation",
+    "viewCount": 2500,
+    "uploadDate": "2024-03-19T15:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Story of Prophet Yusuf (AS)",
+    "subtitle": "The most beautiful story in the Quran",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kMfxPio5YLs",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kMfxPio5YLs/maxresdefault.jpg",
+    "category": "Islamic Stories",
+    "viewCount": 1800,
+    "uploadDate": "2024-03-18T10:00:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Ramadan Nasheed Collection",
+    "subtitle": "Beautiful Islamic songs for Ramadan",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kMfxPio5YLs",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kMfxPio5YLs/maxresdefault.jpg",
+    "category": "Nasheeds",
+    "viewCount": 3000,
+    "uploadDate": "2024-03-17T14:20:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Importance of Salah",
+    "subtitle": "Understanding the significance of daily prayers",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kMfxPio5YLs",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kMfxPio5YLs/maxresdefault.jpg",
+    "category": "Waz",
+    "viewCount": 2200,
+    "uploadDate": "2024-03-16T09:45:00Z"
+  }
+]
