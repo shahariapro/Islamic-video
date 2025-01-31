@@ -2,144 +2,122 @@
   "carousel_videos": [
     {
       "id": "carousel_1",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_1",
       "category": "Islamic Lectures",
       "featured": true,
-      "order": 1
+      "order": 1,
+      "uploadDate": "2024-03-20T12:00:00Z"
     },
     {
       "id": "carousel_2",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_2",
       "category": "Quran Recitation",
       "featured": true,
-      "order": 2
+      "order": 2,
+      "uploadDate": "2024-03-19T12:00:00Z"
     },
     {
       "id": "carousel_3",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_3",
       "category": "Islamic Stories",
       "featured": true,
-      "order": 3
+      "order": 3,
+      "uploadDate": "2024-03-18T12:00:00Z"
     }
   ],
   "popular_videos": [
     {
       "id": "popular_1",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_4",
       "category": "Islamic Lectures",
-      "viewCount": 50000
+      "viewCount": 50000,
+      "uploadDate": "2024-03-17T12:00:00Z"
     },
     {
       "id": "popular_2",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_5",
       "category": "Quran Recitation",
-      "viewCount": 45000
+      "viewCount": 45000,
+      "uploadDate": "2024-03-16T12:00:00Z"
     },
     {
       "id": "popular_3",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_6",
       "category": "Nasheeds",
-      "viewCount": 40000
+      "viewCount": 40000,
+      "uploadDate": "2024-03-15T12:00:00Z"
     }
   ],
   "category_videos": {
     "Islamic Lectures": [
       {
         "id": "lecture_1",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-        "viewCount": 25000
+        "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_7",
+        "viewCount": 25000,
+        "uploadDate": "2024-03-14T12:00:00Z"
       },
       {
         "id": "lecture_2",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-        "viewCount": 20000
+        "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_8",
+        "viewCount": 20000,
+        "uploadDate": "2024-03-13T12:00:00Z"
       }
     ],
     "Quran Recitation": [
       {
         "id": "quran_1",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-        "viewCount": 30000
+        "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_9",
+        "viewCount": 30000,
+        "uploadDate": "2024-03-12T12:00:00Z"
       },
       {
         "id": "quran_2",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-        "viewCount": 28000
+        "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_10",
+        "viewCount": 28000,
+        "uploadDate": "2024-03-11T12:00:00Z"
       }
     ],
     "Islamic Stories": [
       {
         "id": "story_1",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-        "viewCount": 15000
+        "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_11",
+        "viewCount": 15000,
+        "uploadDate": "2024-03-10T12:00:00Z"
       },
       {
         "id": "story_2",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-        "viewCount": 12000
+        "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_12",
+        "viewCount": 12000,
+        "uploadDate": "2024-03-09T12:00:00Z"
       }
     ],
     "Nasheeds": [
       {
         "id": "nasheed_1",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-        "viewCount": 35000
+        "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_13",
+        "viewCount": 35000,
+        "uploadDate": "2024-03-08T12:00:00Z"
       },
       {
         "id": "nasheed_2",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-        "viewCount": 32000
+        "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_14",
+        "viewCount": 32000,
+        "uploadDate": "2024-03-07T12:00:00Z"
       }
     ],
     "Waz": [
       {
         "id": "waz_1",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-        "viewCount": 18000
+        "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_15",
+        "viewCount": 18000,
+        "uploadDate": "2024-03-06T12:00:00Z"
       },
       {
         "id": "waz_2",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-        "viewCount": 16000
+        "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_16",
+        "viewCount": 16000,
+        "uploadDate": "2024-03-05T12:00:00Z"
       }
     ]
   }
-} [
-  {
-    "id": "1",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-    "category": "Islamic Lectures",
-    "uploadDate": "2024-03-20T12:00:00Z"
-  },
-  {
-    "id": "2",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-    "category": "Quran Recitation",
-    "uploadDate": "2024-03-19T15:30:00Z"
-  },
-  {
-    "id": "3",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
-    "category": "Islamic Stories",
-    "uploadDate": "2024-03-18T10:00:00Z"
-  },
-  {
-    "id": "4",
-    "youtubeUrl": "https://www.youtube.com/watch?v=SAqJBJkByzU&list=RDSAqJBJkByzU&start_radio=1&rv=jRuyMhUy_n8",
-    "category": "Nasheeds",
-    "uploadDate": "2024-03-17T14:20:00Z"
-  },
-    {
-    "id": "5",
-    "youtubeUrl": "https://www.youtube.com/watch?v=O3SyEDO0K9U&list=RDSAqJBJkByzU&index=5",
-    "category": "Waz",
-    "uploadDate": "2024-03-16T09:45:00Z"
-  },
-   {
-    "id": "6",
-    "youtubeUrl": "https://www.youtube.com/watch?v=jRuyMhUy_n8",
-    "category": "Waz",
-    "uploadDate": "2024-03-16T09:45:00Z"
-  }
- 
-]
+} 
