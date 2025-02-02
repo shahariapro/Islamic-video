@@ -72,29 +72,5 @@
       "Add nuts on top",
       "Steam for final cooking"
     ]
-  },
-  {
-    "id": "4",
-    "title": "Chicken Shorba",
-    "category": "Soup",
-    "time": "30 min",
-    "difficulty": "Easy",
-    "imageUrl": "https://example.com/chicken-shorba.jpg",
-    "description": "Warming chicken soup with aromatic spices.",
-    "likes": 210,
-    "ingredients": [
-      "Chicken pieces",
-      "Mixed vegetables",
-      "Spices",
-      "Ginger-garlic",
-      "Coriander leaves"
-    ],
-    "instructions": [
-      "Prepare chicken stock",
-      "Sauté vegetables",
-      "Add spices and chicken",
-      "Simmer until done",
-      "Garnish with coriander"
-    ]
   }
 ]
