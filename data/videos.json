@@ -1,7 +1,7 @@
 {
   "carousel_videos": [
     {
-      "id": "carousel_1",
+      "id": "carousel_2",
       "youtubeUrl": "https://www.youtube.com/watch?v=KLRL8XKThfw&t=1658s",
       "category": "Islamic Lectures",
       "featured": true,
@@ -9,8 +9,8 @@
       "uploadDate": "2024-03-20T12:00:00Z"
     },
     {
-      "id": "carousel_2",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+      "id": "carousel_1",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WT54-syfquk",
       "category": "Quran Recitation",
       "featured": true,
       "order": 2,
