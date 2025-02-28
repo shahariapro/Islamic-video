@@ -63,6 +63,15 @@
         "uploadDate": "2024-03-13T12:00:00Z"
       }
     ],
+     "Islamic_history": [
+      {
+        "id": "Islamic_history_1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gt4k6K1zkco&t=174s",
+        "viewCount": 25000,
+        "uploadDate": "2024-03-14T12:00:00Z"
+      }
+    
+    ],
     "Quran Recitation": [
       {
         "id": "quran_1",
