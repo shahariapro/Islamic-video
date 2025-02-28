@@ -2,6 +2,7 @@
   "carousel_videos": [
         {
       "id": "carousel_1",
+           "title": "Understanding Surah Al-Fatiha",
       "youtubeUrl": "https://www.youtube.com/watch?v=WT54-syfquk",
       "category": "Quran Recitation",
       "featured": true,
