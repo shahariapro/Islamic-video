@@ -1,1 +1,54 @@
-[{"id":"1","title":"Special Iftar Platter","category":"Iftar","time":"45 min","difficulty":"Medium","imageUrl":"https://example.com/iftar-platter.jpg","description":"A complete iftar platter with dates, fruits, and traditional items.","likes":252,"ingredients":["6-8 dates","Mixed fruits","Samosas","Pakoras","Chaat","Fruit juice"],"instructions":["Arrange dates on the platter","Add fresh fruits on one side","Place hot samosas and pakoras","Add chaat in a separate bowl","Serve with fruit juice"],"isLiked":false},{"id":"2","title":"Dates & Nuts Smoothie","category":"Drinks","time":"10 min","difficulty":"Easy","imageUrl":"https://example.com/dates-smoothie.jpg","description":"Healthy and energizing smoothie perfect for suhoor.","likes":179,"ingredients":["6 dates","1 cup milk","Mixed nuts","1 banana","Honey (optional)"],"instructions":["Soak dates for 2 hours","Blend dates with milk","Add banana and nuts","Blend until smooth","Add honey if needed"],"isLiked":true},{"id":"3","title":"Arabic Rice with Lamb","category":"Main Course","time":"60 min","difficulty":"Medium","imageUrl":"https://example.com/arabic-rice.jpg","description":"Traditional Arabic rice with tender lamb and nuts.","likes":321,"ingredients":["2 cups basmati rice","500g lamb","Mixed nuts","Spices","Onions","Ghee"],"instructions":["Cook lamb until tender","Prepare rice with spices","Layer rice and meat","Add nuts on top","Steam for final cooking"],"isLiked":false}]
+[
+  {
+    "id": "1",
+    "title": "Special Iftar Platter",
+    "category": "Iftar Recipes",
+    "time": "45 minutes",
+    "difficulty": "Medium",
+    "imageUrl": "https://example.com/iftar-platter.jpg",
+    "description": "A delicious iftar platter with dates, fruits, and traditional items",
+    "likes": 120,
+    "ingredients": [
+      "6 dates",
+      "2 bananas",
+      "1 apple",
+      "2 pieces of jilapi",
+      "4 pieces of piaju",
+      "2 pieces of beguni"
+    ],
+    "instructions": [
+      "Arrange dates on the platter",
+      "Slice fruits and arrange them",
+      "Add freshly fried piaju",
+      "Place jilapi and beguni",
+      "Serve with chutney"
+    ],
+    "isLiked": false,
+    "language": "en"
+  },
+  {
+    "id": "2",
+    "title": "স্পেশাল সেহরি প্যাকেজ",
+    "category": "সেহরি রেসিপি",
+    "time": "30 minutes",
+    "difficulty": "Easy",
+    "imageUrl": "https://example.com/sehri-package.jpg",
+    "description": "পুষ্টিকর এবং সহজে প্রস্তুতযোগ্য সেহরি",
+    "likes": 85,
+    "ingredients": [
+      "২ টি ডিম",
+      "৪ রুটি",
+      "১ কাপ দুধ",
+      "২ কলা",
+      "চিনি স্বাদমত"
+    ],
+    "instructions": [
+      "ডিম সেদ্ধ করুন",
+      "রুটি সেঁকে নিন",
+      "দুধ গরম করুন",
+      "সব একসাথে পরিবেশন করুন"
+    ],
+    "isLiked": false,
+    "language": "bn"
+  }
+]
